@@ -7,10 +7,10 @@
       <Diagram DiagramId="b032343294d44b64833fae7583875e9f" Name="Diagram1" ZoomLevel="74">
         <EntityTypeShape EntityType="NoticeboardDBModel.Admin" Width="1.5" PointX="3" PointY="2.5" IsExpanded="true" />
         <EntityTypeShape EntityType="NoticeboardDBModel.Comment" Width="1.5" PointX="5.25" PointY="6.625" IsExpanded="true" />
-        <EntityTypeShape EntityType="NoticeboardDBModel.Favourite" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NoticeboardDBModel.Favourite" Width="1.5" PointX="7.25" PointY="3" IsExpanded="true" />
         <EntityTypeShape EntityType="NoticeboardDBModel.Notice" Width="1.5" PointX="5.75" PointY="10.375" IsExpanded="true" />
         <EntityTypeShape EntityType="NoticeboardDBModel.Student" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
-        <EntityTypeShape EntityType="NoticeboardDBModel.SystemAdmin" Width="1.5" PointX="0.75" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="NoticeboardDBModel.SystemAdmin" Width="1.5" PointX="0.5" PointY="6" IsExpanded="true" />
         <EntityTypeShape EntityType="NoticeboardDBModel.Teacher" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
         <AssociationConnector Association="NoticeboardDBModel.FK_SystemAdminAdmin" ManuallyRouted="false" />
         <AssociationConnector Association="NoticeboardDBModel.FK_CommentNotice1" ManuallyRouted="false" />
